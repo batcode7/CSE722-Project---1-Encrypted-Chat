@@ -92,7 +92,17 @@ py chat_plain.py connect 127.0.0.1 5000
 ```
 
 ---
+## 1. Install Python and Dependencies
 
+- **Python 3.8+** required ([download here](https://www.python.org/downloads/))
+- Install required modules:
+
+```bash
+py -m pip install --upgrade pip
+py -m pip install pycryptodome
+```
+
+---
 
 
 
