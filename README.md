@@ -13,7 +13,7 @@ A secure peer-to-peer chat application built with Python using **RSA-OAEP** and 
 
 ---
 
-## ▶️ How to Run (Windows)
+## How to Run (Windows)
 
 ### 1. Install Python and Dependencies
 - **Python 3.8+** required ([download here](https://www.python.org/downloads/))
