@@ -26,7 +26,7 @@ py -m pip install pycryptodome
 
 ---
 
-## 2. How to Run the Code (Windows - local host)
+## 2. How to Run the Code (Windows - Local Host)
 
 ### 1.a. Run the application on terminal A (Server Side)
 ```bash
@@ -84,7 +84,7 @@ py chat_plain.py connect 127.0.0.1 5000
 ```bash
 /initshare
 ```
-
+### 8. Send messages from the client and server sides. These messages will be shared as encrypted texts. (Encrypted using the shared session Key)
 ---
 
 
