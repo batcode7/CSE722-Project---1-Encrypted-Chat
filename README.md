@@ -1,6 +1,6 @@
 # CSE722-Project-1: Encrypted-Chat
 
-A secure peer-to-peer chat application built with Python using **RSA-OAEP** and **AES-GCM** encryption for message confidentiality, integrity, authenticity, and freshness. 
+A secure peer-to-peer chat application built with Python using **RSA** and **AES** encryption for message confidentiality, integrity, authenticity, and freshness. 
 ---
 
 ## Features
