@@ -13,7 +13,6 @@ A secure peer-to-peer chat application built with Python using **RSA-OAEP** and 
 
 ---
 
-## How to Run (Windows)
 
 ### 1. Install Python and Dependencies
 - **Python 3.8+** required ([download here](https://www.python.org/downloads/))
@@ -23,7 +22,7 @@ py -m pip install --upgrade pip
 py -m pip install pycryptodome
 
 
-## How to Run (Windows)
+### 2. How to run the code (Windows)
 
 ### 1. Install Python and Dependencies
 - **Python 3.8+** required ([download here](https://www.python.org/downloads/))
