@@ -49,14 +49,33 @@ py chat_plain.py connect 127.0.0.1 5000
 ```bash
 /genkey 
 ```
-### 4.a. To see the generated public key on terminal A
+### 4.a. To see the generated public key on terminal A (Optional)
 ```bash
 /showkey
 ```
 
-### 4.b. o see the generated public key on terminal B
+### 4.b. To see the generated public key on terminal B (Optional)
 ```bash
 /showkey 
+```
+
+### 5.a. Now we will send the public Key of A to B on Terminal A
+```bash
+/sendkey
+```
+
+### 5.b. Now we will send the public Key of B to A on Terminal B
+```bash
+/sendkey
+```
+### 6.a. To see the public key of B received in terminal A (Optional)
+```bash
+/showpeerkey
+```
+
+### 6.b.  To see the public key of B received in terminal A (Optional
+```bash
+/showpeerkey 
 ```
 
 ---
