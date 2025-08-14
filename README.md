@@ -85,6 +85,12 @@ py chat_plain.py connect 127.0.0.1 5000
 /initshare
 ```
 ### 8. Send messages from the client and server sides. These messages will be shared as encrypted texts. (Encrypted using the shared session Key)
+
+### 9. To terminate the connection use the following command on both terminal A and B
+```bash
+/quit
+```
+
 ---
 
 
