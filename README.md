@@ -21,3 +21,7 @@ A secure peer-to-peer chat application built with Python using **RSA-OAEP** and 
 ```bash
 py -m pip install --upgrade pip
 py -m pip install pycryptodome
+
+
+### 2.a. Run the application on terminal A (Server Side)
+py chat_plain.py listen 5000
