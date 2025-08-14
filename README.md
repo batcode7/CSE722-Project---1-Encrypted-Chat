@@ -1,1 +1,1 @@
-# CSE722-Project-1-Encrypted-Chat
+# CSE722-Project-1: Encrypted-Chat
