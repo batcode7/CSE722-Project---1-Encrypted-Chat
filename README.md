@@ -73,9 +73,16 @@ py chat_plain.py connect 127.0.0.1 5000
 /showpeerkey
 ```
 
-### 6.b.  To see the public key of B received in terminal A (Optional
+### 6.b.  To see the public key of B received in terminal A (Optional)
 ```bash
 /showpeerkey 
+```
+
+### 7. Now we will initiate the shared session key sharing process. You may choose terminal A or B. Here we will choose terminal A. So, in Terminal A, type the following command. Here, A will request to B to generate and share the shared session key. B will share it using the following protocol to ensure confidentiality, integrity, and authenticity. 
+<img width="462" height="206" alt="image" src="https://github.com/user-attachments/assets/ebbf3306-3808-4bbd-b58a-8f7f33e84933" />
+
+```bash
+/initshare
 ```
 
 ---
