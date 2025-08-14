@@ -92,15 +92,12 @@ py chat_plain.py connect 127.0.0.1 5000
 ```
 
 ---
-## 1. Install Python and Dependencies
+## 3. Packet Capture
 
-- **Python 3.8+** required ([download here](https://www.python.org/downloads/))
-- Install required modules:
+- We used **wireshark** for packet capturing.
+![WhatsApp Image 2025-08-15 at 00 53 08_ea8d3b19](https://github.com/user-attachments/assets/d46270c2-c186-4acc-982d-f24c9d8cbf76)
 
-```bash
-py -m pip install --upgrade pip
-py -m pip install pycryptodome
-```
+![WhatsApp Image 2025-08-15 at 00 53 25_0915bb82](https://github.com/user-attachments/assets/79cd1fbd-a1fa-4dec-a632-dda56ad818ba)
 
 ---
 
