@@ -23,5 +23,14 @@ py -m pip install --upgrade pip
 py -m pip install pycryptodome
 
 
+## How to Run (Windows)
+
+### 1. Install Python and Dependencies
+- **Python 3.8+** required ([download here](https://www.python.org/downloads/))
+- Install required modules:
+```bash
+py -m pip install --upgrade pip
+py -m pip install pycryptodome
+
 ### 2.a. Run the application on terminal A (Server Side)
 py chat_plain.py listen 5000
