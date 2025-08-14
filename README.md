@@ -40,16 +40,24 @@ py chat_plain.py connect 127.0.0.1 5000
 
 ### 2. Send messages from the client and server sides. These messages will be shared as plaintext. 
 
-### 3.a. Generate the RSA Key on terminal A
+### 3.a. Generate the RSA Key-pair on terminal A
 ```bash
 /genkey 
 ```
 
-### 3.b. Generate the RSA Key on terminal B
+### 3.b. Generate the RSA Key-pair on terminal B
 ```bash
 /genkey 
 ```
+### 4.a. To see the generated public key on terminal A
+```bash
+/showkey
+```
 
+### 4.b. o see the generated public key on terminal B
+```bash
+/showkey 
+```
 
 ---
 
