@@ -29,7 +29,10 @@ py -3.13 -m pip install pycryptodome
 ## 2. How to Run the Code (Windows - Local Host)
 
 ### 0. Make sure you have located the folder where you downloaded the code file (encrypted-chat.py). You may use the cd command to change the directory in the terminal.
-
+-Example:
+```bash
+cd downloads
+```
 ### 1.a. Run the application on terminal A (Server Side)
 ```bash
 py -3.13 encrypted-chat.py listen 5000
