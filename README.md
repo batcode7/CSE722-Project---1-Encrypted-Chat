@@ -30,12 +30,12 @@ py -3.13 -m pip install pycryptodome
 
 ### 1.a. Run the application on terminal A (Server Side)
 ```bash
-py encrypted-chat.py listen 5000
+py -3.13 encrypted-chat.py listen 5000
 ```
 
 ### 1.b. Run the application on terminal B (Client Side)
 ```bash
-py encrypted-chat.py connect 127.0.0.1 5000
+py -3.13 encrypted-chat.py connect 127.0.0.1 5000
 ```
 
 ### 2. Send messages from the client and server sides. These messages will be shared as plaintext. 
