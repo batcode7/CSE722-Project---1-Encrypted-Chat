@@ -16,12 +16,12 @@ A secure peer-to-peer chat application built with Python using **RSA** and **AES
 
 ## 1. Install Python and Dependencies
 
-- **Python 3.8+** required ([download here](https://www.python.org/downloads/))
+- **Python 3.13** required ([download here](https://www.python.org/downloads/))
 - Install required modules:
 
 ```bash
-py -m pip install --upgrade pip
-py -m pip install pycryptodome
+py -3.13 -m pip install --upgrade pip
+py -3.13 -m pip install pycryptodome
 ```
 
 ---
