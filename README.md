@@ -9,7 +9,7 @@ A secure peer-to-peer chat application built with Python using **RSA** and **AES
 - **AES-256 symmetric key exchange** encrypted via RSA-OAEP
 - **All post-handshake messages** sent as AES-GCM encrypted **SECMSG** (Secure Message) frames
 - **Nonce exchange** for replay prevention & freshness
-- **RSA-PSS signatures & hashing** for session key integrity verification
+- **RSA-PSS signatures & hashing** for session key authenticity and integrity
 
 ---
 
